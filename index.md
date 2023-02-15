@@ -16,7 +16,7 @@
 
 In a personal exploration of my preferences, I use R to analyze Lorde's albums through text mining (word clouds, sentiment analysis, correlation, network analysis).
 
-<img src="images/sent_album_and_song (1).png" height="300"/>
+<img src="images/sent_album_and_song (1).png" height="400"/>
 
 
 
