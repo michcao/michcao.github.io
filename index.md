@@ -1,9 +1,5 @@
 ## Portfolio
 
-### Table of Contents
-- [entertainment](https://github.com/michcao/michcao.github.io/blob/master/index.md#entertainment)
-- [publications](https://github.com/michcao/michcao.github.io/blob/master/index.md#publications)
-
 ---
 
 ### entertainment
