@@ -1,5 +1,12 @@
 ## Portfolio
 
+### Table of Contents
+- Entertainment
+  - Project 1
+  - Project 2
+  - Lorde's Happy-Sadness
+- Publications
+
 ---
 
 ### Entertainment
