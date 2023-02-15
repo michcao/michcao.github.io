@@ -1,4 +1,4 @@
-title: Michelle Cao # your name (or website title) here
+dtitle: Michelle Cao # your name (or website title) here
 logo: "/images/Michelle-28_Original.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <p align="center">
@@ -7,9 +7,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   </p>
   
   <p align="justify">
-  First description 
+  Colgate University, BA
+  Columbia University School of International and Public Affairs, MPA
   <br><br>
-  Alum of Colgate University & Columbia University SIPA
+  Second description
   <br><br>
    </p>
   
