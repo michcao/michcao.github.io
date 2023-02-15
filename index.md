@@ -1,15 +1,12 @@
 ## Portfolio
 
 ### Table of Contents
-- Entertainment
-  - Project 1
-  - Project 2
-  - Lorde's Happy-Sadness
-- Publications
+- [entertainment](https://github.com/michcao/michcao.github.io/blob/master/index.md#entertainment)
+- [publications](https://github.com/michcao/michcao.github.io/blob/master/index.md#publications)
 
 ---
 
-### Entertainment
+### entertainment
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -29,7 +26,7 @@ In a personal exploration of my preferences, I use R to analyze Lorde's albums t
 
 ---
 
-### Publications
+### publications
 
 - **_[Nearly Three-Fourths of Online Households Continue to Have Digital Privacy and Security Concerns](https://ntia.gov/blog/2021/nearly-three-fourths-online-households-continue-have-digital-privacy-and-security-concerns)_**, National Telecommunications and Information Administration Blog (Stata)
 - **_[More than Half of American Households Used the Internet for Health-Related Activities in 2019, NTIA Data Show](https://ntia.gov/blog/2020/more-half-american-households-used-internet-health-related-activities-2019-ntia-data-show)_**, National Telecommunications and Information Administration Blog (Stata)
