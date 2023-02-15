@@ -12,8 +12,13 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Lorde's Happy-Sadness](https://github.com/michcao/media_analyses/blob/main/Lorde/README.md) [03/05/2021]
+
+In a personal exploration of my preferences, I use R to analyze Lorde's albums through text mining (word clouds, sentiment analysis, correlation, network analysis).
+
+<img src="images/sent_album_and_song (1).png" height="250"/><img src="images/network_analysis (1).png" height="250"/><img src="images/correlation (1).png" height="250"/><img src="images/words_per_track_bar (1).png" height="250"/>
+
+
 
 ---
 
